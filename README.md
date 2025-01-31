@@ -7,4 +7,5 @@ In this jupyter notebook, there will be the answers of the questions for this pr
 * How important do people think attractiveness is in potential mate selection vs. its real impact?
 * Are shared interests more important than a shared racial background?
 * Can people accurately predict their own perceived value in the dating market?
-* In terms of getting a second date, is it better to be someone's first speed date of the night or their last?
+* The importance of the religion background
+* The difference of match proportion in function of the field of study (and some hypotheses for why ?)
